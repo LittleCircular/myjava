@@ -6,5 +6,6 @@ public class HelloWorld {
         String name = "张三";
         name = "李四";
         System.out.println(name);
+        System.out.println("weixin");
     }
 }
